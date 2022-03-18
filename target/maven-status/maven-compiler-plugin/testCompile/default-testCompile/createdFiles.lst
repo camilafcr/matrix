@@ -1,0 +1,3 @@
+service\MatrixServiceTest.class
+service\MatrixValidateTest.class
+api\MatrixApplicationTest.class

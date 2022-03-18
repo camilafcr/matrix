@@ -1,0 +1,4 @@
+com\matrix\service\MatrixValidate.class
+com\matrix\service\MatrixService.class
+com\matrix\api\MatrixApplication.class
+com\matrix\utils\FormatText.class
